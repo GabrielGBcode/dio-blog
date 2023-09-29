@@ -1,0 +1,29 @@
+@media screen and (max-width: 480px) {
+  .menu-title-conatiner > h1 {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .menu-title-conatiner > h1 {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .menu-title-conatiner > h1 {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .menu-title-conatiner > h1 {
+    font-size: 5rem;
+  }
+}
+
+@media screen and (min-width: 1201px) {
+  .menu-title-conatiner > h1 {
+    font-size: 6rem;
+  }
+}
