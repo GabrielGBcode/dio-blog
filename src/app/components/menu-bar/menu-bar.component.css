@@ -1,0 +1,17 @@
+.container-menu-bar > ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.container-menu-bar > ul > li {
+  margin-right: 20px;
+}
+
+.container-menu-bar > ul > li > span {
+  cursor: default;
+}
+
+.container-menu-bar > ul > li > a:hover {
+  color: rgb(155, 255, 255);
+}
